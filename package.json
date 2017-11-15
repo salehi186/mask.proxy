@@ -1,0 +1,12 @@
+{
+  "name": "mask.proxy",
+  "version": "1.0.0",
+  "description": "Simple Http/s proxy ",
+  "main": "server.js",
+  "repository": "http://github.com/salehi186/mask.proxy",
+  "author": "salehi186@gmail.com <salehi186@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
